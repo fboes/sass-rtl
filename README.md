@@ -1,7 +1,7 @@
 SASS-Library for RTL-Layout
 ===========================
 
-A small library for laszily generating RTL layout. For flipping your layout, your body has to have a class "rtl".
+A small library for lazily generating RTL layout. For flipping your layout, your body has to have a class "rtl".
 
 Include into your _style.scss like this:
 
@@ -16,8 +16,8 @@ Use it like this:
   }
 
 
-Author:      Frank Boës <frank.boes@bluemars.net>
+Author:      Frank Boës (frank.boes@bluemars.net)
 
-Company:     BlueMars <bluemars.net>
+Company:     BlueMars (bluemars.net)
 
 Copyright:   Creative Commons Attribution 3.0 Unported (CC BY 3.0)
