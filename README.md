@@ -16,8 +16,11 @@ Use it like this:
   }
 
 
-Author:      Frank Boës (frank.boes@bluemars.net)
+Legal stuff
+-----------
 
-Company:     BlueMars (bluemars.net)
+Author: Frank Boës
 
-Copyright:   Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+Company:     [BlueMars](http://www.bluemars.net)
+
+Copyright & license: See LICENSE.txt
