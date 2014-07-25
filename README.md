@@ -16,6 +16,11 @@ Use it like this:
   }
 
 
+Version
+-------
+
+Version: 1.1 (2014-07-25)
+
 Legal stuff
 -----------
 
